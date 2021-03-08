@@ -1,0 +1,1 @@
+# Simple solution to manage webhooks and other notifications in a central place

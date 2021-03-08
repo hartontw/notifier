@@ -1,0 +1,25 @@
+{
+  "name": "notifier",
+  "version": "0.0.1",
+  "description": "Simple solution to manage webhooks and other notifications in a central place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartontw/notifier.git"
+  },
+  "keywords": [
+    "webhook",
+    "mail",
+    "bots",
+    "notify"
+  ],
+  "author": "Daniel 'Harton'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hartontw/notifier/issues"
+  },
+  "homepage": "https://github.com/hartontw/notifier#readme"
+}
